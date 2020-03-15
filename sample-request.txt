@@ -1,0 +1,32 @@
+{
+    "object": "page",
+    "entry": [
+        {
+            "messaging": [
+                {
+                    "sender": {"id": "<SEN>"}, 
+                    "recipient": {"id": "<REC>"}, 
+                    "timestamp": 1580886585738, 
+                    "message": {
+                        "mid": "m_cxlGNb_K6OU5WlLVmd01-XiJWDMQSJOf3gJ4xzPF-oKo3xMj04J_rWx_0DEl3t7j7_zKBEwhmipAPrjjAbOb7w", 
+                        "text": "Test", 
+                        "nlp": {
+                            "entities": {
+                                "sentiment": [
+                                    {"confidence": 0.79884254389466, "value": "neutral"}
+                                    ]
+                                
+                            }, 
+                            "detected_locales": [
+                                {"locale": "en_XX", 
+                                "confidence": 0.9995
+                                    
+                                }
+                                ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
